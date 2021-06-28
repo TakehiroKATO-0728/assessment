@@ -59,7 +59,7 @@ userNameInput.onkeydown = event =>{
 
 const answers = [
     '{userName}のいいところは声でーす。{userName}の特徴的な声は皆を惹きつけ、心に残ります。',
-    '{userName}のいいところはまなざしです。{userName}に見つめられた人は、気になって仕方がないでしょう。',
+    '{userName}のいいところはまなざしでーす。{userName}に見つめられた人は、気になって仕方がないでしょう。',
     '{userName}のいいところは情熱です。{userName}の情熱に周りの人は感化されます。',
     '{userName}のいいところは厳しさです。{userName}の厳しさがものごとをいつも成功に導きます。',
     '{userName}のいいところは知識です。博識な{userName}を多くの人が頼りにしています。',
